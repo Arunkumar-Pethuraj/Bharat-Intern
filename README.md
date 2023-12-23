@@ -14,5 +14,5 @@ https://github.com/Arunkumar-Pethuraj/Bharat-Intern/assets/153414462/d0787bb7-f4
 
 ## Task - 2 - Money Tracker WebApp :
 
-### ON going process...
+### On going process...
 
